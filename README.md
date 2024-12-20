@@ -1,4 +1,6 @@
 # FediVibes
+NSFW project. We're all adults here. Proceed at your own risk.
+
 A very dumb shitpost of an idea to turn activitypub notifications from transfem.social into vibrations on a sex toy.
 
 ### Running
