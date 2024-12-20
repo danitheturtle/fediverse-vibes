@@ -1,0 +1,26 @@
+
+.appWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+#infoBox {
+  width: 250px;
+  width: 15%;
+  margin-left: 10%;
+}
+
+#settingsBox {
+  width: 30%;
+}
+
+#notificationStream {
+  max-height: 75vh;
+  overflow-y: auto;
+  width: 35%;
+  margin-right: 10%;
+}
